@@ -3,4 +3,4 @@
 
 
 
-Basic scripts to parse data collected for the MISSA Big Data initiative
+Basic scripts to parse data collected for the MISSA Big Data Honeypot project

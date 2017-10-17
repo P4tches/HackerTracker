@@ -3,4 +3,4 @@
 
 
 
-Basic scripts to parse data collected for the MISSA Big Data Honeypot project
+Basic scripts to parse data collected for the Big Data Honeypot project at the Cal Poly Pomona
